@@ -1,0 +1,12 @@
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/bin/Debug/netcoreapp2.0/CompoundInterestTests.deps.json
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/bin/Debug/netcoreapp2.0/CompoundInterestTests.runtimeconfig.json
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/bin/Debug/netcoreapp2.0/CompoundInterestTests.runtimeconfig.dev.json
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/bin/Debug/netcoreapp2.0/CompoundInterestTests.dll
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/bin/Debug/netcoreapp2.0/CompoundInterestTests.pdb
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/bin/Debug/netcoreapp2.0/CompoundInterestLib.dll
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/bin/Debug/netcoreapp2.0/CompoundInterestLib.pdb
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/obj/Debug/netcoreapp2.0/CompoundInterestTests.csproj.CoreCompileInputs.cache
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/obj/Debug/netcoreapp2.0/CompoundInterestTests.AssemblyInfoInputs.cache
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/obj/Debug/netcoreapp2.0/CompoundInterestTests.AssemblyInfo.cs
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/obj/Debug/netcoreapp2.0/CompoundInterestTests.dll
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestTests/obj/Debug/netcoreapp2.0/CompoundInterestTests.pdb

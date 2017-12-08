@@ -1,0 +1,3 @@
+/Users/brynbeaudry/ASPMedNet/TDDLab/obj/Debug/netcoreapp2.0/TDDLab.csproj.CoreCompileInputs.cache
+/Users/brynbeaudry/ASPMedNet/TDDLab/obj/Debug/netcoreapp2.0/TDDLab.AssemblyInfoInputs.cache
+/Users/brynbeaudry/ASPMedNet/TDDLab/obj/Debug/netcoreapp2.0/TDDLab.AssemblyInfo.cs

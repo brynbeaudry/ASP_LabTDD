@@ -1,0 +1,8 @@
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestLib/bin/Debug/netcoreapp2.0/CompoundInterestLib.deps.json
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestLib/bin/Debug/netcoreapp2.0/CompoundInterestLib.dll
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestLib/bin/Debug/netcoreapp2.0/CompoundInterestLib.pdb
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestLib/obj/Debug/netcoreapp2.0/CompoundInterestLib.csproj.CoreCompileInputs.cache
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestLib/obj/Debug/netcoreapp2.0/CompoundInterestLib.AssemblyInfoInputs.cache
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestLib/obj/Debug/netcoreapp2.0/CompoundInterestLib.AssemblyInfo.cs
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestLib/obj/Debug/netcoreapp2.0/CompoundInterestLib.dll
+/Users/brynbeaudry/ASPMedNet/TDDLab/CompoundInterestLib/obj/Debug/netcoreapp2.0/CompoundInterestLib.pdb
